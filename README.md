@@ -1,4 +1,4 @@
-subcrawl
+Subcrawl
 ========
 
 A Glasgow Subcrawl (subway pub crawl) planner.
